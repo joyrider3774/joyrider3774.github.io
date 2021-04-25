@@ -1,5 +1,5 @@
-layout: sidebar
-style: light
+layout: stacked
+style: dark
 
 plugins:
   - jekyll-octicons
@@ -21,17 +21,17 @@ projects:
   # sort_by options:
   #   - pushed
   #   - stars
-  limit: 9
+  limit: 15
   exclude:
     archived: false
     forks: true
     projects:
     # - repo-name
 
-# social_media:
+social_media:
   # behance: your_username
   # dribbble: your_username
-  # facebook: your_username
+  facebook: willems.davy.5
   # hackerrank: your_username
   # instagram: your_username
   # keybase: your_username
@@ -43,16 +43,28 @@ projects:
   # twitter: your_username
   # unsplash: your_username
   # vk: your_username
-  # website: http://your_website_url
-  # youtube: your_username
+  website: http://www.willemssoft.be
+  youtube: joyirder3774
 
 topics:
-  - name: CSS
-    web_url: https://github.com/topics/css
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
+  - name: Delphi
+    web_url: https://www.embarcadero.com/products/delphi
+    image_url: https://www.embarcadero.com/images/logos/logo-page/Delphi_FINAL_ICONS_1024.png
 
-  - name: Web design
+  - name: SDL
+    web_url: https://www.libsdl.org
+    image_url: https://www.libsdl.org/media/SDL_logo.png
+    
+  - name: Playnite
+    web_url: https://www.playnite.link/
+    image_url: https://www.playnite.link/applogo.png
 
-  - name: Sass
-    web_url: https://github.com/topics/sass
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
+  - name: Fuze 4 Nintendo Switch
+    web_url: https://www.fuze.co.uk/
+    image_url: https://www.joyrider3774.xyz/tmp/FUZE.png
+     
+  - name: Game Development
+  
+  - name: Emulation
+  
+  - name: Virtual Pinball
