@@ -62,6 +62,10 @@ topics:
   - name: Fuze 4 Nintendo Switch
     web_url: https://www.fuze.co.uk/
     image_url: https://www.joyrider3774.xyz/tmp/FUZE.png
+
+  - name: Playdate by Panic
+    web_url: https://play.date/
+    image_url: https://static-fastly.play.date/static/images/favicon-32x32.518e6cc71073.png
      
   - name: Game Development
   
