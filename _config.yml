@@ -65,7 +65,7 @@ topics:
 
   - name: Playdate by Panic
     web_url: https://play.date/
-    image_url: https://static-fastly.play.date/static/images/apple-touch-icon.588a13acdab4.png
+    image_url: https://static-cdn.play.date/static/images/apple-touch-icon.588a13acdab4.png
      
   - name: Game Development
   
