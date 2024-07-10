@@ -67,6 +67,14 @@ topics:
     web_url: https://play.date/
     image_url: https://static-cdn.play.date/static/images/apple-touch-icon.588a13acdab4.png
      
+  - name: microStudio
+    web_url: https://microstudio.dev/
+    image_url: https://microstudio.dev/img/favicon180.png
+
+  - name: WASM4
+    web_url: https://wasm4.org/
+    image_url: https://wasm4.org/img/logo.png
+
   - name: Game Development
   
   - name: Emulation
