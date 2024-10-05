@@ -75,6 +75,10 @@ topics:
     web_url: https://wasm4.org/
     image_url: https://wasm4.org/img/logo.png
 
+  - name: Vircon32
+    web_url: https://www.vircon32.com/
+    image_url: https://www.vircon32.com/images/icon32.png
+
   - name: Game Development
   
   - name: Emulation
