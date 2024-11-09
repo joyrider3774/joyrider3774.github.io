@@ -21,7 +21,7 @@ projects:
   # sort_by options:
   #   - pushed
   #   - stars
-  limit: 15
+  limit: 56
   exclude:
     archived: false
     forks: true
@@ -40,7 +40,7 @@ social_media:
   # medium: your_username
   # stackoverflow: your_user_id
   # telegram: your_username
-  # twitter: your_username
+  twitter: joyrider3774
   # unsplash: your_username
   # vk: your_username
   website: http://www.willemssoft.be
@@ -62,7 +62,23 @@ topics:
   - name: Fuze 4 Nintendo Switch
     web_url: https://www.fuze.co.uk/
     image_url: https://www.joyrider3774.xyz/tmp/FUZE.png
+
+  - name: Playdate by Panic
+    web_url: https://play.date/
+    image_url: https://static-cdn.play.date/static/images/apple-touch-icon.588a13acdab4.png
      
+  - name: microStudio
+    web_url: https://microstudio.dev/
+    image_url: https://microstudio.dev/img/favicon180.png
+
+  - name: WASM4
+    web_url: https://wasm4.org/
+    image_url: https://wasm4.org/img/logo.png
+
+  - name: Vircon32
+    web_url: https://www.vircon32.com/
+    image_url: https://www.vircon32.com/images/icon32.png
+
   - name: Game Development
   
   - name: Emulation
