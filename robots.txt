@@ -1,0 +1,4 @@
+Sitemap: https://joyrider3774.github.io/sitemap.xml
+
+User-agent: *
+Disallow:
