@@ -7,12 +7,14 @@ layout: null
 
 {% for repository in filtered_repos | limit: site.projects.limit %}
     {% unless site.projects.exclude.projects contains repository.name %}
+      {% if repository.homepageUrl != "" %}
       <url>
-      <loc>{{ repository.html_url }}</loc>
+      <loc>{{ repository.homepageUrl }}</loc>
       <lastmod>{{ repository.pushed_at | date_to_xmlschema }}</lastmod>
       <changefreq>daily</changefreq>
       <priority>1</priority>
       </url>
+      {% endif %}
     {% endunless %}
   {% endfor %}
 </urlset>
