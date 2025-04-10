@@ -1,4 +1,1 @@
 Sitemap: https://joyrider3774.github.io/sitemap2.xml
-
-User-agent: *
-Disallow:
